@@ -1,5 +1,5 @@
 # Game-Programming-Course-Week-2
-In the second week of my game programming course, I built a simple 3D game using Unity to practice key concepts like shooting mechanics and object management. <br>
+In the second week of the Game Programming course, I built a simple 3D game using Unity to practice key concepts like shooting mechanics and object management. <br>
 This project demonstrates the following fundamental skills:
 
 - Designing a basic laser prefab and setting its properties (size, material, and color).
